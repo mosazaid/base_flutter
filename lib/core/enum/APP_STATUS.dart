@@ -1,0 +1,5 @@
+enum APP_STATUS {
+  LOADING,
+  NOT_LOGIN,
+  LOGIN,
+}
